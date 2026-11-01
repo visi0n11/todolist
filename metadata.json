@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Modern Productivity & To-Do Suite",
+  "description": "A high-performance, beautifully crafted to-do list and task management suite with smart views, Eisenhower matrix, Kanban, focus timer, and subtasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
